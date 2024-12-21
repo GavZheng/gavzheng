@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 <Hi, I'm Gavin>
+Aha!😜 You found me!  
+🏫I am a junior high school student from Hangzhou, China🇨🇳, a place renowned for its breathtaking beauty🤩. Additionally, I am a member of the Communist Youth League of China🚩.  
+📧You can reach me via email at gav.zheng@outlook.com.
+💻I use a MacBook Air (with M1 chip) that runs macOS.  
+🧑‍💻My commonly used programming languages are **Rust** and **Python**.  
+📚I enjoy reading "Steve Jobs" by Walter Isaacson and "The Three-Body Problem" by Liu Cixin.  
+🍎I really like Apple products. They have a great sense of design, and macOS is very friendly for both development and daily use.  
 
-<!--
-**GavZheng/GavZheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Thing I code with
+![Rust](https://img.shields.io/badge/Rust-orange?&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6495ED?&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?&logo=cplusplus&logoColor=white)
 
-Here are some ideas to get you started:
+![Github](https://img.shields.io/badge/Github-FAF9F6?&logo=github&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FFA005?&logo=git&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-FAF9F6?&logo=apple&logoColor=black)
+![Homebrew](https://img.shields.io/badge/Homebrew-FAF9F6?&logo=homebrew&logoColor=orange)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Due to my busy academic schedule, my responses to emails may be slightly delayed.
